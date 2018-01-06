@@ -1,0 +1,6 @@
+# ignore validation_report.txt
+validation_report.txt
+
+# ignore bak files
+*.bak.xml
+
