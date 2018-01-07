@@ -93,7 +93,10 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="12697"/>
+                <sel id="12698"/>
+            </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -21198,7 +21201,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="PAPI 11R Left"/>
-            <point heading="287.71" latitude="21.223991820" longitude="105.790487941"/>
+            <point heading="287.71" latitude="21.224192925" longitude="105.789755188"/>
             <light_fixture angle="3.00" type="PAPI (Left Side)"/>
         </object>
         <object class="WED_LightFixture" id="12698" parent_id="12704">
@@ -21206,7 +21209,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="PAPI 11R Right"/>
-            <point heading="288.23" latitude="21.223108381" longitude="105.790205420"/>
+            <point heading="288.23" latitude="21.223282318" longitude="105.789419097"/>
             <light_fixture angle="3.00" type="PAPI (Right Side)"/>
         </object>
         <object class="WED_LightFixture" id="12701" parent_id="12704">
@@ -21234,7 +21237,7 @@
                 <child id="12697"/>
                 <child id="12702"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="Lights"/>
+            <hierarchy hidden="0" locked="0" name="Lights"/>
         </object>
     </objects>
     <prefs>
@@ -21246,15 +21249,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.804599"/>
-        <pref name="map/north" value="21.233158"/>
+        <pref name="map/east" value="105.791939"/>
+        <pref name="map/north" value="21.224673"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="4"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.213192"/>
+        <pref name="map/south" value="21.221986"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.775002"/>
+        <pref name="map/west" value="105.787956"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
