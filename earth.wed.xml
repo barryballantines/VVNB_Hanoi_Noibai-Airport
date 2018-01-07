@@ -93,7 +93,9 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="12704"/>
+            </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -247,6 +249,7 @@
                 <child id="12162"/>
                 <child id="8290"/>
                 <child id="12310"/>
+                <child id="12704"/>
                 <child id="12425"/>
                 <child id="12479"/>
                 <child id="8373"/>
@@ -21192,6 +21195,49 @@
                 <marking value="Solid White (Roadway)"/>
             </markings>
         </object>
+        <object class="WED_LightFixture" id="12697" parent_id="12704">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="PAPI 11R Left"/>
+            <point heading="287.71" latitude="21.223991820" longitude="105.790487941"/>
+            <light_fixture angle="3.00" type="PAPI (Left Side)"/>
+        </object>
+        <object class="WED_LightFixture" id="12698" parent_id="12704">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="PAPI 11R Right"/>
+            <point heading="288.23" latitude="21.223108381" longitude="105.790205420"/>
+            <light_fixture angle="3.00" type="PAPI (Right Side)"/>
+        </object>
+        <object class="WED_LightFixture" id="12701" parent_id="12704">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="PAPI 11L Left"/>
+            <point heading="286.26" latitude="21.224897855" longitude="105.795696756"/>
+            <light_fixture angle="3.00" type="PAPI (Left Side)"/>
+        </object>
+        <object class="WED_LightFixture" id="12702" parent_id="12704">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="PAPI 29L Left"/>
+            <point heading="107.04" latitude="21.214866640" longitude="105.818178521"/>
+            <light_fixture angle="3.00" type="VASI"/>
+        </object>
+        <object class="WED_Group" id="12704" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="12701"/>
+                <child id="12698"/>
+                <child id="12697"/>
+                <child id="12702"/>
+            </children>
+            <hierarchy hidden="0" locked="1" name="Lights"/>
+        </object>
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
@@ -21200,18 +21246,19 @@
             <item value="12310"/>
             <item value="12425"/>
             <item value="12479"/>
+            <item value="12704"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.793494"/>
-        <pref name="map/north" value="21.219418"/>
+        <pref name="map/east" value="105.825059"/>
+        <pref name="map/north" value="21.235893"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.215548"/>
+        <pref name="map/south" value="21.207142"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.787758"/>
+        <pref name="map/west" value="105.782441"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -21231,7 +21278,7 @@
         <pref name="map_Hole_Lights" value="96"/>
         <pref name="map_Hole_Markings" value="74"/>
         <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
-        <pref name="map_Light Fixture_Fixture Type" value="37"/>
+        <pref name="map_Light Fixture_Fixture Type" value="36"/>
         <pref name="map_Lines_Resource" value=""/>
         <pref name="map_Objects_Object" value=""/>
         <pref name="map_Objects_Show with" value="564"/>
