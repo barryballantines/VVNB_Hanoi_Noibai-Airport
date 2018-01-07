@@ -93,9 +93,7 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection>
-                <sel id="9"/>
-            </selection>
+            <selection/>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -1504,7 +1502,7 @@
                 <child id="6"/>
                 <child id="9"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Runways"/>
+            <hierarchy hidden="0" locked="1" name="Runways"/>
         </object>
         <object class="WED_AirportChain" id="12386" parent_id="12425">
             <sources/>
@@ -21225,7 +21223,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="PAPI 29L Left"/>
             <point heading="107.04" latitude="21.214866640" longitude="105.818178521"/>
-            <light_fixture angle="3.00" type="VASI"/>
+            <light_fixture angle="3.00" type="PAPI (Left Side)"/>
         </object>
         <object class="WED_Group" id="12704" parent_id="5">
             <sources/>
@@ -21245,19 +21243,18 @@
             <item value="12310"/>
             <item value="12425"/>
             <item value="12479"/>
-            <item value="12704"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.803781"/>
-        <pref name="map/north" value="21.230545"/>
+        <pref name="map/east" value="105.804599"/>
+        <pref name="map/north" value="21.233158"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="4"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.216679"/>
+        <pref name="map/south" value="21.213192"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.783227"/>
+        <pref name="map/west" value="105.775002"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
