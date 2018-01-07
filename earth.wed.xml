@@ -94,8 +94,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="12697"/>
-                <sel id="12698"/>
+                <sel id="12708"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
@@ -250,6 +249,7 @@
                 <child id="12162"/>
                 <child id="8290"/>
                 <child id="12310"/>
+                <child id="12708"/>
                 <child id="12704"/>
                 <child id="12425"/>
                 <child id="12479"/>
@@ -21237,7 +21237,41 @@
                 <child id="12697"/>
                 <child id="12702"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Lights"/>
+            <hierarchy hidden="0" locked="1" name="Lights"/>
+        </object>
+        <object class="WED_Windsock" id="12705" parent_id="12708">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Windsock 2"/>
+            <point latitude="21.223294277" longitude="105.795165608"/>
+            <windsock lit="0"/>
+        </object>
+        <object class="WED_Windsock" id="12706" parent_id="12708">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Windsock 3"/>
+            <point latitude="21.216416976" longitude="105.819413579"/>
+            <windsock lit="0"/>
+        </object>
+        <object class="WED_Windsock" id="12707" parent_id="12708">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Windsock 1"/>
+            <point latitude="21.222844372" longitude="105.789217135"/>
+            <windsock lit="0"/>
+        </object>
+        <object class="WED_Group" id="12708" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="12707"/>
+                <child id="12706"/>
+                <child id="12705"/>
+            </children>
+            <hierarchy hidden="0" locked="1" name="Windsocks"/>
         </object>
     </objects>
     <prefs>
@@ -21246,18 +21280,20 @@
             <item value="12310"/>
             <item value="12425"/>
             <item value="12479"/>
+            <item value="12704"/>
+            <item value="12708"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.791939"/>
-        <pref name="map/north" value="21.224673"/>
+        <pref name="map/east" value="105.796294"/>
+        <pref name="map/north" value="21.225965"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="4"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.221986"/>
+        <pref name="map/south" value="21.220393"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.787956"/>
+        <pref name="map/west" value="105.788034"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
