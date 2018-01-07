@@ -68,9 +68,9 @@
                 <child id="10"/>
                 <child id="11"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="11L/29R"/>
+            <hierarchy hidden="0" locked="0" name="11R/29L"/>
             <line width="54.22"/>
-            <runway REIL1="Omnidirectional REIL" REIL2="Omnidirectional REIL" TDZL1="0" TDZL2="0" app_lites1="MALSF" app_lites2="MALSF" blastpad1="95.5" blastpad2="99.3" center_lites="0" displaced1="0.0" displaced2="0.0" distance_signs="0" edge_lites="MIRL" markings1="Non-Precision (US)" markings2="Non-Precision (US)" roughness="0.00" shoulder="None" surface="Concrete"/>
+            <runway REIL1="Omnidirectional REIL" REIL2="Omnidirectional REIL" TDZL1="1" TDZL2="0" app_lites1="Calvert" app_lites2="SALS" blastpad1="95.5" blastpad2="99.3" center_lites="0" displaced1="0.0" displaced2="0.0" distance_signs="0" edge_lites="HIRL" markings1="Precision (US)" markings2="Precision (US)" roughness="0.00" shoulder="None" surface="Concrete"/>
         </object>
         <object class="WED_AirportNode" id="12297" parent_id="12292">
             <sources/>
@@ -94,7 +94,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="12704"/>
+                <sel id="9"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
@@ -301,9 +301,9 @@
                 <child id="7"/>
                 <child id="8"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="11R/29L"/>
+            <hierarchy hidden="0" locked="0" name="11L/29R"/>
             <line width="44.49"/>
-            <runway REIL1="None" REIL2="None" TDZL1="0" TDZL2="0" app_lites1="MALSF" app_lites2="MALSF" blastpad1="0.0" blastpad2="0.0" center_lites="1" displaced1="0.0" displaced2="0.0" distance_signs="1" edge_lites="MIRL" markings1="Precision (US)" markings2="Non-Precision (US)" roughness="0.00" shoulder="Asphalt" surface="Concrete"/>
+            <runway REIL1="None" REIL2="None" TDZL1="0" TDZL2="0" app_lites1="Calvert" app_lites2="None" blastpad1="0.0" blastpad2="0.0" center_lites="0" displaced1="0.0" displaced2="0.0" distance_signs="1" edge_lites="HIRL" markings1="Precision (US)" markings2="Non-Precision (US)" roughness="0.00" shoulder="Asphalt" surface="Concrete"/>
         </object>
         <object class="WED_AirportNode" id="12294" parent_id="12292">
             <sources/>
@@ -1504,7 +1504,7 @@
                 <child id="6"/>
                 <child id="9"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="Runways"/>
+            <hierarchy hidden="0" locked="0" name="Runways"/>
         </object>
         <object class="WED_AirportChain" id="12386" parent_id="12425">
             <sources/>
@@ -21241,7 +21241,6 @@
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
-            <item value="8290"/>
             <item value="8373"/>
             <item value="12310"/>
             <item value="12425"/>
@@ -21250,15 +21249,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.825059"/>
-        <pref name="map/north" value="21.235893"/>
+        <pref name="map/east" value="105.803781"/>
+        <pref name="map/north" value="21.230545"/>
         <pref name="map/obj_density" value="6"/>
-        <pref name="map/pavement_alpha" value="2"/>
+        <pref name="map/pavement_alpha" value="4"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.207142"/>
+        <pref name="map/south" value="21.216679"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.782441"/>
+        <pref name="map/west" value="105.783227"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
