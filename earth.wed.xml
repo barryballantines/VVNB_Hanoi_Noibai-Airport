@@ -94,8 +94,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="12482"/>
-                <sel id="12488"/>
+                <sel id="12162"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
@@ -458,7 +457,7 @@
                 <child id="12354"/>
                 <child id="12333"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Taxiways"/>
+            <hierarchy hidden="0" locked="1" name="Taxiways"/>
         </object>
         <object class="WED_TextureNode" id="10263" parent_id="10259">
             <sources/>
@@ -17501,7 +17500,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="1" name="Tower"/>
-            <point latitude="21.223209181" longitude="105.805338340"/>
+            <point latitude="21.213397360" longitude="105.805686348"/>
             <tower_viewpoint height="25"/>
         </object>
         <object class="WED_AirportBeacon" id="12164" parent_id="5">
@@ -17509,7 +17508,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="1" name="Beacon"/>
-            <point latitude="21.223196125" longitude="105.805209045"/>
+            <point latitude="21.213217760" longitude="105.805465237"/>
             <airport_beacon type="Airport"/>
         </object>
         <object class="WED_AirportChain" id="12165" parent_id="12166">
@@ -19410,7 +19409,7 @@
                 <child id="12485"/>
                 <child id="12442"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Apron"/>
+            <hierarchy hidden="0" locked="1" name="Apron"/>
         </object>
         <object class="WED_AirportNode" id="12480" parent_id="12254">
             <sources/>
@@ -20410,15 +20409,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.798706"/>
-        <pref name="map/north" value="21.224869"/>
+        <pref name="map/east" value="105.806617"/>
+        <pref name="map/north" value="21.215917"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.217834"/>
+        <pref name="map/south" value="21.212693"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.788278"/>
+        <pref name="map/west" value="105.801837"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
