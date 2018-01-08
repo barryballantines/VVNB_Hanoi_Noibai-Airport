@@ -93,7 +93,9 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="13154"/>
+            </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -251,6 +253,7 @@
                 <child id="12704"/>
                 <child id="12425"/>
                 <child id="12479"/>
+                <child id="13154"/>
                 <child id="8373"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Hanoi Noibai"/>
@@ -19400,7 +19403,7 @@
                 <child id="12890"/>
                 <child id="12876"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Apron"/>
+            <hierarchy hidden="0" locked="1" name="Apron"/>
         </object>
         <object class="WED_AirportNode" id="12480" parent_id="12254">
             <sources/>
@@ -21228,8 +21231,8 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Windsock 2"/>
-            <point latitude="21.223315466" longitude="105.795207454"/>
-            <windsock lit="0"/>
+            <point latitude="21.223176193" longitude="105.795806008"/>
+            <windsock lit="1"/>
         </object>
         <object class="WED_Windsock" id="12706" parent_id="12708">
             <sources/>
@@ -21237,27 +21240,24 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Windsock 3"/>
             <point latitude="21.216315846" longitude="105.819435275"/>
-            <windsock lit="0"/>
+            <windsock lit="1"/>
         </object>
         <object class="WED_Windsock" id="12707" parent_id="12708">
             <sources/>
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Windsock 1"/>
-            <point latitude="21.222962814" longitude="105.789318782"/>
-            <windsock lit="0"/>
+            <point latitude="21.225216253" longitude="105.787948822"/>
+            <windsock lit="1"/>
         </object>
         <object class="WED_Group" id="12708" parent_id="5">
             <sources/>
             <viewers/>
             <children>
-                <child id="12931"/>
-                <child id="12924"/>
                 <child id="12707"/>
-                <child id="12941"/>
                 <child id="12705"/>
-                <child id="12955"/>
                 <child id="12706"/>
+                <child id="13153"/>
             </children>
             <hierarchy hidden="0" locked="1" name="Windsocks"/>
         </object>
@@ -23197,13 +23197,13 @@
             <hierarchy hidden="0" locked="0" name="Dirtpath WS1"/>
             <airport_chain closed="1"/>
         </object>
-        <object class="WED_Taxiway" id="12924" parent_id="12708">
+        <object class="WED_Taxiway" id="12924" parent_id="13154">
             <sources/>
             <viewers/>
             <children>
                 <child id="12923"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Dirtspot WS1"/>
+            <hierarchy hidden="0" locked="0" name="Dirtspot ILS 11R"/>
             <taxiway heading="0.00" roughness="0.00" surface="Dirt"/>
         </object>
         <object class="WED_AirportNode" id="12925" parent_id="12923">
@@ -23262,13 +23262,13 @@
             <hierarchy hidden="0" locked="0" name="Taxiway 41 Outer Ring"/>
             <airport_chain closed="1"/>
         </object>
-        <object class="WED_Taxiway" id="12931" parent_id="12708">
+        <object class="WED_Taxiway" id="12931" parent_id="13154">
             <sources/>
             <viewers/>
             <children>
                 <child id="12930"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Dirtpath WS1"/>
+            <hierarchy hidden="0" locked="0" name="Dirtpath ILS 11R"/>
             <taxiway heading="0.00" roughness="0.00" surface="Dirt"/>
         </object>
         <object class="WED_AirportNode" id="12932" parent_id="12930">
@@ -23355,13 +23355,13 @@
             <hierarchy hidden="0" locked="0" name="Taxiway 42 Outer Ring"/>
             <airport_chain closed="1"/>
         </object>
-        <object class="WED_Taxiway" id="12941" parent_id="12708">
+        <object class="WED_Taxiway" id="12941" parent_id="13154">
             <sources/>
             <viewers/>
             <children>
                 <child id="12940"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Dirtpath WS 2"/>
+            <hierarchy hidden="0" locked="0" name="Dirtpath ILS 11L"/>
             <taxiway heading="0.00" roughness="0.00" surface="Dirt"/>
         </object>
         <object class="WED_AirportNode" id="12942" parent_id="12940">
@@ -23479,13 +23479,13 @@
             <hierarchy hidden="0" locked="0" name="Taxiway 43 Outer Ring"/>
             <airport_chain closed="1"/>
         </object>
-        <object class="WED_Taxiway" id="12955" parent_id="12708">
+        <object class="WED_Taxiway" id="12955" parent_id="13154">
             <sources/>
             <viewers/>
             <children>
                 <child id="12954"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Dirtpath WS 3"/>
+            <hierarchy hidden="0" locked="0" name="Dirtpath Windsock 3"/>
             <taxiway heading="0.00" roughness="0.00" surface="Dirt"/>
         </object>
         <object class="WED_AirportNode" id="12956" parent_id="12954">
@@ -25505,29 +25505,50 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Taxiways Center lines"/>
         </object>
+        <object class="WED_Windsock" id="13153" parent_id="12708">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Windsock 4"/>
+            <point latitude="21.214492511" longitude="105.818625746"/>
+            <windsock lit="1"/>
+        </object>
+        <object class="WED_Group" id="13154" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="12931"/>
+                <child id="12924"/>
+                <child id="12941"/>
+                <child id="12955"/>
+            </children>
+            <hierarchy hidden="0" locked="1" name="Other Areas"/>
+        </object>
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
             <item value="8290"/>
             <item value="8373"/>
             <item value="12310"/>
+            <item value="12425"/>
             <item value="12479"/>
             <item value="12704"/>
             <item value="12708"/>
             <item value="13151"/>
             <item value="13152"/>
+            <item value="13154"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.810113"/>
-        <pref name="map/north" value="21.228217"/>
+        <pref name="map/east" value="105.816296"/>
+        <pref name="map/north" value="21.230469"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.216662"/>
+        <pref name="map/south" value="21.209050"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.792984"/>
+        <pref name="map/west" value="105.784546"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -25602,8 +25623,8 @@
         <pref name="window/height" value="821"/>
         <pref name="window/main_split" value="0"/>
         <pref name="window/main_split2" value="1176"/>
-        <pref name="window/prev_split" value="373"/>
-        <pref name="window/prop_split" value="418"/>
+        <pref name="window/prev_split" value="383"/>
+        <pref name="window/prop_split" value="428"/>
         <pref name="window/width" value="1536"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
