@@ -93,9 +93,7 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection>
-                <sel id="15121"/>
-            </selection>
+            <selection/>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -13013,7 +13011,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S6A{@L}S1{@Y,^u}11"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S6A{@L}S1{@Y,^u}11|S6{^r}"/>
             <point heading="107.96" latitude="21.218792356" longitude="105.800241189"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13112,14 +13110,6 @@
                 <child id="11025"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
-        </object>
-        <object class="WED_AirportSign" id="15117" parent_id="15121">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{hazard}11R{^r}"/>
-            <point heading="107.53" latitude="21.222836991" longitude="105.786270596"/>
-            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11022" parent_id="11021">
             <sources/>
@@ -13286,13 +13276,15 @@
                 <child id="15233"/>
                 <child id="15235"/>
                 <child id="15136"/>
+                <child id="15338"/>
                 <child id="15236"/>
-                <child id="15135"/>
                 <child id="15327"/>
                 <child id="15326"/>
                 <child id="15325"/>
                 <child id="15324"/>
+                <child id="15334"/>
                 <child id="15323"/>
+                <child id="15333"/>
                 <child id="15322"/>
                 <child id="15239"/>
                 <child id="15238"/>
@@ -13300,14 +13292,17 @@
                 <child id="15134"/>
                 <child id="15248"/>
                 <child id="15131"/>
+                <child id="15336"/>
+                <child id="15335"/>
                 <child id="15173"/>
                 <child id="15109"/>
                 <child id="15177"/>
                 <child id="15118"/>
-                <child id="15178"/>
-                <child id="15117"/>
+                <child id="15342"/>
+                <child id="15346"/>
+                <child id="15343"/>
+                <child id="15337"/>
                 <child id="15244"/>
-                <child id="15243"/>
                 <child id="15242"/>
                 <child id="15241"/>
                 <child id="15240"/>
@@ -13342,6 +13337,8 @@
                 <child id="15123"/>
                 <child id="15219"/>
                 <child id="15122"/>
+                <child id="15341"/>
+                <child id="15339"/>
                 <child id="15250"/>
                 <child id="15129"/>
                 <child id="15141"/>
@@ -13357,7 +13354,7 @@
                 <child id="15249"/>
                 <child id="15107"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="Signs"/>
+            <hierarchy hidden="0" locked="0" name="Signs"/>
         </object>
         <object class="WED_OverlayImage" id="11026" parent_id="8373">
             <sources/>
@@ -13555,14 +13552,6 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
-        <object class="WED_AirportSign" id="15135" parent_id="15121">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON*E*W"/>
-            <point heading="196.70" latitude="21.222324781" longitude="105.787160803"/>
-            <airport_sign size="Medium Taxiway" style="Default"/>
-        </object>
         <object class="WED_TextureNode" id="11040" parent_id="11039">
             <sources/>
             <viewers/>
@@ -13733,7 +13722,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}S7{^r}|APRON{^r}"/>
-            <point heading="289.11" latitude="21.223056919" longitude="105.791262661"/>
+            <point heading="289.11" latitude="21.223051602" longitude="105.791199914"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_Ring" id="11051" parent_id="11050">
@@ -13752,7 +13741,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}S7{^r}|APRON{^r}"/>
-            <point heading="286.35" latitude="21.223479763" longitude="105.791409677"/>
+            <point heading="288.74" latitude="21.223511668" longitude="105.791312704"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11052" parent_id="11051">
@@ -13768,7 +13757,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y}S6A*APRON{^r}"/>
-            <point heading="285.95" latitude="21.221113761" longitude="105.799598505"/>
+            <point heading="285.95" latitude="21.221145487" longitude="105.799501396"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11053" parent_id="11051">
@@ -13784,7 +13773,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y}S4*APRON{^r}"/>
-            <point heading="289.04" latitude="21.219036801" longitude="105.806628895"/>
+            <point heading="289.04" latitude="21.219071258" longitude="105.806608360"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11054" parent_id="11051">
@@ -14008,7 +13997,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y}S6A*APRON{^r}"/>
-            <point heading="285.95" latitude="21.220679310" longitude="105.799496186"/>
+            <point heading="285.95" latitude="21.220678399" longitude="105.799346705"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_OverlayImage" id="11068" parent_id="8373">
@@ -14025,7 +14014,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y}S4*APRON{^r}"/>
-            <point heading="289.04" latitude="21.218579648" longitude="105.806516127"/>
+            <point heading="289.04" latitude="21.218579648" longitude="105.806458630"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_Ring" id="11069" parent_id="11068">
@@ -14167,8 +14156,8 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S6A{@L}S1{@Y,^u}11"/>
-            <point heading="107.96" latitude="21.219122003" longitude="105.800316147"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S6A{@L}S1{@Y,^u}11|S6{^r}"/>
+            <point heading="107.96" latitude="21.219118174" longitude="105.800336682"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11078" parent_id="11075">
@@ -14247,14 +14236,6 @@
             <point latitude="21.212579000" longitude="105.803833000"/>
             <texture_node s="0.0000" t="0.0000"/>
         </object>
-        <object class="WED_AirportSign" id="15178" parent_id="15121">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{hazard}11R{^r}"/>
-            <point heading="111.80" latitude="21.223142662" longitude="105.786370298"/>
-            <airport_sign size="Medium Taxiway" style="Default"/>
-        </object>
         <object class="WED_TextureNode" id="11083" parent_id="11081">
             <sources/>
             <viewers/>
@@ -14284,7 +14265,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S2"/>
-            <point heading="106.99" latitude="21.216177375" longitude="105.816433956"/>
+            <point heading="106.99" latitude="21.216193327" longitude="105.816445364"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11085" parent_id="11081">
@@ -14300,7 +14281,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S4"/>
-            <point heading="103.90" latitude="21.218208088" longitude="105.807837312"/>
+            <point heading="103.90" latitude="21.218179374" longitude="105.807916028"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_OverlayImage" id="11086" parent_id="8373">
@@ -14328,7 +14309,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S4"/>
-            <point heading="103.90" latitude="21.218636853" longitude="105.807943658"/>
+            <point heading="103.90" latitude="21.218657081" longitude="105.808018709"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11088" parent_id="11087">
@@ -14344,7 +14325,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON*S6A"/>
-            <point heading="105.35" latitude="21.220253827" longitude="105.800867264"/>
+            <point heading="105.35" latitude="21.220232557" longitude="105.800858708"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11089" parent_id="11087">
@@ -14376,7 +14357,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y,^l}APRON|{^l}S7{^r}"/>
-            <point heading="103.36" latitude="21.222670647" longitude="105.792574562"/>
+            <point heading="103.36" latitude="21.222633893" longitude="105.792559777"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11091" parent_id="11087">
@@ -14935,7 +14916,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}S2{@L}S1{@Y,^u}29"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}11|S2{^r}"/>
             <point heading="106.63" latitude="21.214283929" longitude="105.815629274"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -14951,7 +14932,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}S2{@L}S1{@Y,^u}29"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}11|S2{^r}"/>
             <point heading="110.21" latitude="21.214621252" longitude="105.815734094"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15160,7 +15141,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON*E*W"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T1*APRON*E*W"/>
             <point heading="196.70" latitude="21.222205817" longitude="105.787585130"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15275,14 +15256,6 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
-        <object class="WED_AirportSign" id="15243" parent_id="15121">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T1{^r}"/>
-            <point heading="288.86" latitude="21.221557520" longitude="105.790796896"/>
-            <airport_sign size="Medium Taxiway" style="Default"/>
-        </object>
         <object class="WED_TextureNode" id="11148" parent_id="11147">
             <sources/>
             <viewers/>
@@ -15295,8 +15268,8 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T1{^r}"/>
-            <point heading="288.86" latitude="21.221832211" longitude="105.790881088"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T1{^r}"/>
+            <point heading="288.86" latitude="21.221876316" longitude="105.790786462"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11149" parent_id="11147">
@@ -15695,7 +15668,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}E2"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}E2{^r}"/>
             <point heading="288.78" latitude="21.215875786" longitude="105.807440056"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15711,7 +15684,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}E2"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}E2{^r}"/>
             <point heading="288.78" latitude="21.216032360" longitude="105.807490058"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15728,7 +15701,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}E3|RWY{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}E3|11*29{^r}"/>
             <point heading="107.53" latitude="21.216217568" longitude="105.806934977"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15755,7 +15728,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}E3|RWY{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}E3|11*29{^r}"/>
             <point heading="107.53" latitude="21.216039123" longitude="105.806893503"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15812,7 +15785,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y}W1"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}W1{^r}"/>
             <point heading="287.59" latitude="21.217625918" longitude="105.802095654"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15831,7 +15804,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y}W1"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}W1{^r}"/>
             <point heading="287.59" latitude="21.217385980" longitude="105.802026146"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16023,7 +15996,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^lu}GATE_5{@@}E3{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^lu}GATE_5{@@,^l}11*29|E3{^r}"/>
             <point heading="106.39" latitude="21.216254903" longitude="105.806001706"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16039,7 +16012,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^lu}GATE_5{@@}E3{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^lu}GATE_5{@@,^l}11*29|E3{^r}"/>
             <point heading="106.39" latitude="21.216462871" longitude="105.806063248"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16500,7 +16473,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="{@Y}S1{^r}"/>
-            <point heading="110.46" latitude="21.219420500" longitude="105.795945678"/>
+            <point heading="110.46" latitude="21.219409422" longitude="105.795933794"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11227" parent_id="11225">
@@ -16671,6 +16644,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
+        <object class="WED_AirportSign" id="15333" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y}S1{^r}"/>
+            <point heading="100.18" latitude="21.219229073" longitude="105.795884074"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
+        </object>
         <object class="WED_TextureNode" id="11238" parent_id="11237">
             <sources/>
             <viewers/>
@@ -16678,6 +16659,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.212579000" longitude="105.809326000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_AirportSign" id="15334" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}S1"/>
+            <point heading="289.16" latitude="21.219645561" longitude="105.794402599"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11239" parent_id="11237">
             <sources/>
@@ -16687,6 +16676,14 @@
             <point latitude="21.212579000" longitude="105.812072000"/>
             <texture_node s="1.0000" t="0.0000"/>
         </object>
+        <object class="WED_AirportSign" id="15335" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}S6{@L}S1{@Y,^u}11|S6A*APRON{^r}"/>
+            <point heading="289.07" latitude="21.219439772" longitude="105.799125130"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
+        </object>
         <object class="WED_TextureNode" id="11240" parent_id="11237">
             <sources/>
             <viewers/>
@@ -16694,6 +16691,14 @@
             <hierarchy hidden="0" locked="0" name="unnamed entity"/>
             <point latitude="21.215140000" longitude="105.812072000"/>
             <texture_node s="1.0000" t="1.0000"/>
+        </object>
+        <object class="WED_AirportSign" id="15336" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}S6{@L}S1{@Y,^u}11|S6A*APRON{^r}"/>
+            <point heading="293.41" latitude="21.219133489" longitude="105.799030671"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11241" parent_id="11237">
             <sources/>
@@ -16703,6 +16708,14 @@
             <point latitude="21.215140000" longitude="105.809326000"/>
             <texture_node s="0.0000" t="1.0000"/>
         </object>
+        <object class="WED_AirportSign" id="15337" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T1{^r}"/>
+            <point heading="288.86" latitude="21.221528990" longitude="105.790685923"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
+        </object>
         <object class="WED_OverlayImage" id="11242" parent_id="8373">
             <sources/>
             <viewers/>
@@ -16711,6 +16724,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="13221011201133320"/>
             <overlay_image alpha="1.0" file_path="..\..\..\..\..\..\Users\mbuse\wedbing\tempfilestore\13221011201133320.jpg"/>
+        </object>
+        <object class="WED_AirportSign" id="15338" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T1*APRON*E*W"/>
+            <point heading="196.70" latitude="21.222325233" longitude="105.787153484"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_Ring" id="11243" parent_id="11242">
             <sources/>
@@ -16722,6 +16743,14 @@
                 <child id="11247"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
+        </object>
+        <object class="WED_AirportSign" id="15339" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11*29*S1A"/>
+            <point heading="285.59" latitude="21.215385651" longitude="105.809779630"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11244" parent_id="11243">
             <sources/>
@@ -16739,6 +16768,14 @@
             <point latitude="21.210019000" longitude="105.812072000"/>
             <texture_node s="1.0000" t="0.0000"/>
         </object>
+        <object class="WED_AirportSign" id="15341" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11*29*S1A"/>
+            <point heading="285.59" latitude="21.215186839" longitude="105.809721842"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
+        </object>
         <object class="WED_TextureNode" id="11246" parent_id="11243">
             <sources/>
             <viewers/>
@@ -16747,6 +16784,14 @@
             <point latitude="21.212579000" longitude="105.812072000"/>
             <texture_node s="1.0000" t="1.0000"/>
         </object>
+        <object class="WED_AirportSign" id="15342" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1|11R{^r,@@,@L}S1{@Y,^u}11L*29"/>
+            <point heading="108.19" latitude="21.223159074" longitude="105.785809830"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
+        </object>
         <object class="WED_TextureNode" id="11247" parent_id="11243">
             <sources/>
             <viewers/>
@@ -16754,6 +16799,14 @@
             <hierarchy hidden="0" locked="0" name="unnamed entity"/>
             <point latitude="21.212579000" longitude="105.809326000"/>
             <texture_node s="0.0000" t="1.0000"/>
+        </object>
+        <object class="WED_AirportSign" id="15343" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{hazard}"/>
+            <point heading="100.50" latitude="21.222824800" longitude="105.786334641"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_OverlayImage" id="11248" parent_id="8373">
             <sources/>
@@ -16782,6 +16835,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.207458000" longitude="105.809326000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_AirportSign" id="15346" parent_id="15121">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="{hazard}"/>
+            <point heading="108.87" latitude="21.223122263" longitude="105.786422670"/>
+            <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
         <object class="WED_TextureNode" id="11251" parent_id="11249">
             <sources/>
@@ -31370,15 +31431,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.787877"/>
-        <pref name="map/north" value="21.224833"/>
+        <pref name="map/east" value="105.808129"/>
+        <pref name="map/north" value="21.218153"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.222067"/>
+        <pref name="map/south" value="21.215185"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.784148"/>
+        <pref name="map/west" value="105.804129"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -31453,8 +31514,8 @@
         <pref name="window/height" value="821"/>
         <pref name="window/main_split" value="3"/>
         <pref name="window/main_split2" value="1082"/>
-        <pref name="window/prev_split" value="403"/>
-        <pref name="window/prop_split" value="217"/>
+        <pref name="window/prev_split" value="413"/>
+        <pref name="window/prop_split" value="227"/>
         <pref name="window/width" value="1536"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
