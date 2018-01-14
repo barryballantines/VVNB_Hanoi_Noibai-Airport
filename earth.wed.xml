@@ -93,7 +93,9 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="15107"/>
+            </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
             <sources/>
@@ -243,7 +245,6 @@
             <viewers/>
             <children>
                 <child id="8321"/>
-                <child id="12164"/>
                 <child id="12162"/>
                 <child id="15053"/>
                 <child id="8290"/>
@@ -12987,7 +12988,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}E3{@Y,^l}S1{^r}|29{^r,@@,^l}E2{@L}E3{@Y}W*T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}E3{@Y,^l}S1{^r}|29{^r,@@,^l}E2{@L}E3{@Y}W*T2{^r}"/>
             <point heading="200.11" latitude="21.216684566" longitude="105.806391634"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13063,7 +13064,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11"/>
             <point heading="104.99" latitude="21.219962287" longitude="105.796221490"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13079,7 +13080,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11R|11L{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11R|11L{^r}"/>
             <point heading="107.22" latitude="21.221174045" longitude="105.792061694"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13096,7 +13097,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11R"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11R"/>
             <point heading="108.46" latitude="21.222365594" longitude="105.787999029"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13480,7 +13481,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S1B{@Y,^l}S1{^r}|29{^r,@@,@L}S1B{@Y}W*E*T2*T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S1B{@Y,^l}S1{^r}|29{^r,@@,@L}S1B{@Y}W*E*T1*T2{^r}"/>
             <point heading="201.96" latitude="21.215351900" longitude="105.810959094"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13504,7 +13505,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S6A{@Y,^l}S1{^r}|29{^r,@@,^l}T2*E*W{@L}S6A{@Y}T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S6A{@Y,^l}S1{^r}|29{^r,@@,^l}T1*E*W{@L}S6A{@Y}T2{^r}"/>
             <point heading="196.70" latitude="21.218749095" longitude="105.799404351"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13537,7 +13538,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T2*APRON|{^u}T1|{^l}E*W{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON|{^u}T2|{^l}E*W{^r}"/>
             <point heading="196.70" latitude="21.221164425" longitude="105.791042626"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13564,7 +13565,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^u}11|29{^r,@@,^l}T1*APRON*E*W{hazard}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^u}11|29{^r,@@,^l}T2*APRON*E*W{hazard}"/>
             <point heading="196.70" latitude="21.222767785" longitude="105.785649745"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13621,7 +13622,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{no-entry,@@,@L}S4{@Y,^u}E3*T2*APRON"/>
+            <hierarchy hidden="0" locked="0" name="{no-entry,@@,@L}S4{@Y,^u}E3*T1*APRON"/>
             <point heading="200.56" latitude="21.217450019" longitude="105.806671885"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -13640,7 +13641,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{no-entry,@@,@L}S4{@Y,^u}E3*T2*APRON"/>
+            <hierarchy hidden="0" locked="0" name="{no-entry,@@,@L}S4{@Y,^u}E3*T1*APRON"/>
             <point heading="-164.13" latitude="21.217357227" longitude="105.807096833"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -14188,7 +14189,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11R|11L{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11R|11L{^r}"/>
             <point heading="114.11" latitude="21.221458017" longitude="105.792137851"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15124,7 +15125,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^u}11|29{^r,@@,^l}T1*APRON*E*W{hazard}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^u}11|29{^r,@@,^l}T2*APRON*E*W{hazard}"/>
             <point heading="196.70" latitude="21.222669639" longitude="105.786013455"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15141,7 +15142,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T1*APRON*E*W"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T2*APRON*E*W"/>
             <point heading="196.70" latitude="21.222205817" longitude="105.787585130"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15160,7 +15161,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T2*APRON|{^u}T1|{^l}E*W{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON|{^u}T2|{^l}E*W{^r}"/>
             <point heading="196.70" latitude="21.221030805" longitude="105.791549822"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15176,7 +15177,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T2*APRON|{^u}T1|{^l}E*W{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON|{^u}T2|{^l}E*W{^r}"/>
             <point heading="196.70" latitude="21.219989227" longitude="105.795093774"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15192,7 +15193,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T2*APRON|{^u}T1|{^l}E*W{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11|{^l}S1{^r}|29{^r,@@,^l}T1*APRON|{^u}T2|{^l}E*W{^r}"/>
             <point heading="196.70" latitude="21.219860666" longitude="105.795566023"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15208,7 +15209,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11R"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11R"/>
             <point heading="108.46" latitude="21.222665383" longitude="105.788077131"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15224,7 +15225,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T2{^r}"/>
             <point heading="288.86" latitude="21.222916515" longitude="105.787125676"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15241,7 +15242,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y}T2{^r}"/>
             <point heading="288.86" latitude="21.222621171" longitude="105.787030406"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15268,7 +15269,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T2{^r}"/>
             <point heading="288.86" latitude="21.221876316" longitude="105.790786462"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15284,7 +15285,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}29|T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}29|T2{^r}"/>
             <point heading="294.06" latitude="21.220417696" longitude="105.794671969"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15300,7 +15301,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}29|T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@L}S1{@Y,^u}29|T2{^r}"/>
             <point heading="284.69" latitude="21.220696182" longitude="105.794766848"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15316,7 +15317,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1{@L}S1{@Y,^u}11"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2{@L}S1{@Y,^u}11"/>
             <point heading="112.01" latitude="21.220259013" longitude="105.796305444"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15333,7 +15334,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S6A{@Y,^l}S1{^r}|29{^r,@@,^l}T2*E*W{@L}S6A{@Y}T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S6A{@Y,^l}S1{^r}|29{^r,@@,^l}T1*E*W{@L}S6A{@Y}T2{^r}"/>
             <point heading="-165.25" latitude="21.218627240" longitude="105.799867397"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15352,7 +15353,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}E3{@Y,^l}S1{^r}|29{^r,@@,^l}E2{@L}E3{@Y}W*T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}E3{@Y,^l}S1{^r}|29{^r,@@,^l}E2{@L}E3{@Y}W*T2{^r}"/>
             <point heading="204.28" latitude="21.216563319" longitude="105.806812649"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -15368,7 +15369,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S1B{@Y,^l}S1{^r}|29{^r,@@,@L}S1B{@Y}W*E*T2*T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11{@L}S1B{@Y,^l}S1{^r}|29{^r,@@,@L}S1B{@Y}W*E*T1*T2{^r}"/>
             <point heading="201.96" latitude="21.215485109" longitude="105.810419283"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16396,7 +16397,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y}T1{^u}|6A{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}T2{^u}|6A{^r}"/>
             <point heading="106.07" latitude="21.218174930" longitude="105.800168860"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16420,7 +16421,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y}T1{^u}|6A{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}T2{^u}|6A{^r}"/>
             <point heading="106.07" latitude="21.217935188" longitude="105.800105951"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16712,7 +16713,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11L{@L}S1{@Y,^l}S7{^r}|T2{^r}"/>
             <point heading="288.86" latitude="21.221528990" longitude="105.790685923"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16729,7 +16730,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T1*APRON*E*W"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}11R|{^l}S1{^r}|11L|29{^r,@@,^l}T2*APRON*E*W"/>
             <point heading="196.70" latitude="21.222325233" longitude="105.787153484"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -16788,7 +16789,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@Y,^l}T1|11R{^r,@@,@L}S1{@Y,^u}11L*29"/>
+            <hierarchy hidden="0" locked="0" name="{@Y,^l}T2|11R{^r,@@,@L}S1{@Y,^u}11L*29"/>
             <point heading="108.19" latitude="21.223159074" longitude="105.785809830"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -23011,14 +23012,6 @@
             <hierarchy hidden="0" locked="1" name="Tower"/>
             <point latitude="21.213355752" longitude="105.805161926"/>
             <tower_viewpoint height="25"/>
-        </object>
-        <object class="WED_AirportBeacon" id="12164" parent_id="5">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="1" name="Beacon"/>
-            <point latitude="21.213474342" longitude="105.805390851"/>
-            <airport_beacon type="Airport"/>
         </object>
         <object class="WED_AirportChain" id="12165" parent_id="12166">
             <sources/>
@@ -31427,19 +31420,18 @@
             <item value="14898"/>
             <item value="15034"/>
             <item value="15053"/>
-            <item value="15121"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.808129"/>
-        <pref name="map/north" value="21.218153"/>
+        <pref name="map/east" value="105.802242"/>
+        <pref name="map/north" value="21.219725"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.215185"/>
+        <pref name="map/south" value="21.214225"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.804129"/>
+        <pref name="map/west" value="105.798725"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -31513,9 +31505,9 @@
         <pref name="map_Windsock_Lit" value="0"/>
         <pref name="window/height" value="821"/>
         <pref name="window/main_split" value="3"/>
-        <pref name="window/main_split2" value="1082"/>
-        <pref name="window/prev_split" value="413"/>
-        <pref name="window/prop_split" value="227"/>
+        <pref name="window/main_split2" value="570"/>
+        <pref name="window/prev_split" value="423"/>
+        <pref name="window/prop_split" value="237"/>
         <pref name="window/width" value="1536"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
