@@ -94,8 +94,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="15550"/>
-                <sel id="15553"/>
+                <sel id="15053"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
@@ -11977,6 +11976,20 @@
                 <child id="15049"/>
                 <child id="15048"/>
                 <child id="15047"/>
+                <child id="15574"/>
+                <child id="15573"/>
+                <child id="15572"/>
+                <child id="15571"/>
+                <child id="15570"/>
+                <child id="15569"/>
+                <child id="15568"/>
+                <child id="15567"/>
+                <child id="15566"/>
+                <child id="15565"/>
+                <child id="15564"/>
+                <child id="15563"/>
+                <child id="15562"/>
+                <child id="15561"/>
             </children>
             <hierarchy hidden="0" locked="1" name="Ramps"/>
         </object>
@@ -20536,6 +20549,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
+        <object class="WED_RampPosition" id="15561" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 20"/>
+            <point heading="197.65" latitude="21.217666668" longitude="105.797044038"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_TextureNode" id="11466" parent_id="11465">
             <sources/>
             <viewers/>
@@ -20543,6 +20564,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.215140000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_RampPosition" id="15562" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 21"/>
+            <point heading="199.44" latitude="21.217872999" longitude="105.796389508"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_TextureNode" id="11467" parent_id="11465">
             <sources/>
@@ -20552,6 +20581,14 @@
             <point latitude="21.215140000" longitude="105.820312000"/>
             <texture_node s="1.0000" t="0.0000"/>
         </object>
+        <object class="WED_RampPosition" id="15563" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 22"/>
+            <point heading="197.10" latitude="21.218112279" longitude="105.795755757"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_TextureNode" id="11468" parent_id="11465">
             <sources/>
             <viewers/>
@@ -20559,6 +20596,14 @@
             <hierarchy hidden="0" locked="0" name="unnamed entity"/>
             <point latitude="21.217700000" longitude="105.820312000"/>
             <texture_node s="1.0000" t="1.0000"/>
+        </object>
+        <object class="WED_RampPosition" id="15564" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 23"/>
+            <point heading="197.99" latitude="21.218320575" longitude="105.795047666"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_TextureNode" id="11469" parent_id="11465">
             <sources/>
@@ -20568,6 +20613,14 @@
             <point latitude="21.217700000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="1.0000"/>
         </object>
+        <object class="WED_RampPosition" id="15565" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 24"/>
+            <point heading="197.59" latitude="21.218564076" longitude="105.794191662"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_OverlayImage" id="11470" parent_id="8373">
             <sources/>
             <viewers/>
@@ -20576,6 +20629,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="13221011201133313"/>
             <overlay_image alpha="1.0" file_path="..\..\..\..\..\..\Users\mbuse\wedbing\tempfilestore\13221011201133313.jpg"/>
+        </object>
+        <object class="WED_RampPosition" id="15566" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 28"/>
+            <point heading="197.53" latitude="21.218769438" longitude="105.793540217"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_Ring" id="11471" parent_id="11470">
             <sources/>
@@ -20588,6 +20649,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
+        <object class="WED_RampPosition" id="15567" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 29"/>
+            <point heading="198.81" latitude="21.218972454" longitude="105.792915837"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_TextureNode" id="11472" parent_id="11471">
             <sources/>
             <viewers/>
@@ -20595,6 +20664,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.212579000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_RampPosition" id="15568" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 30"/>
+            <point heading="196.65" latitude="21.219095945" longitude="105.792205143"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_TextureNode" id="11473" parent_id="11471">
             <sources/>
@@ -20604,6 +20681,14 @@
             <point latitude="21.212579000" longitude="105.820312000"/>
             <texture_node s="1.0000" t="0.0000"/>
         </object>
+        <object class="WED_RampPosition" id="15569" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 31"/>
+            <point heading="196.76" latitude="21.219293973" longitude="105.791525895"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_TextureNode" id="11474" parent_id="11471">
             <sources/>
             <viewers/>
@@ -20611,6 +20696,14 @@
             <hierarchy hidden="0" locked="0" name="unnamed entity"/>
             <point latitude="21.215140000" longitude="105.820312000"/>
             <texture_node s="1.0000" t="1.0000"/>
+        </object>
+        <object class="WED_RampPosition" id="15570" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 32"/>
+            <point heading="198.60" latitude="21.219492001" longitude="105.790820420"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_TextureNode" id="11475" parent_id="11471">
             <sources/>
@@ -20620,6 +20713,14 @@
             <point latitude="21.215140000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="1.0000"/>
         </object>
+        <object class="WED_RampPosition" id="15571" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 33"/>
+            <point heading="197.57" latitude="21.219746260" longitude="105.789962834"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_OverlayImage" id="11476" parent_id="8373">
             <sources/>
             <viewers/>
@@ -20628,6 +20729,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="13221011201133331"/>
             <overlay_image alpha="1.0" file_path="..\..\..\..\..\..\Users\mbuse\wedbing\tempfilestore\13221011201133331.jpg"/>
+        </object>
+        <object class="WED_RampPosition" id="15572" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 34"/>
+            <point heading="198.58" latitude="21.219951622" longitude="105.789278337"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_Ring" id="11477" parent_id="11476">
             <sources/>
@@ -20640,6 +20749,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
+        <object class="WED_RampPosition" id="15573" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 35"/>
+            <point heading="196.19" latitude="21.220117868" longitude="105.788614821"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
+        </object>
         <object class="WED_TextureNode" id="11478" parent_id="11477">
             <sources/>
             <viewers/>
@@ -20647,6 +20764,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.210019000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_RampPosition" id="15574" parent_id="15053">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="T2 Gate 36"/>
+            <point heading="198.99" latitude="21.220291448" longitude="105.788003755"/>
+            <ramp_start airlines="" ramp_op_type="General Aviation" traffic="2" type="Gate" width="E"/>
         </object>
         <object class="WED_TextureNode" id="11479" parent_id="11477">
             <sources/>
@@ -33269,15 +33394,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.798430"/>
-        <pref name="map/north" value="21.219146"/>
+        <pref name="map/east" value="105.800788"/>
+        <pref name="map/north" value="21.223678"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.214752"/>
+        <pref name="map/south" value="21.206785"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.792742"/>
+        <pref name="map/west" value="105.778927"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -33352,8 +33477,8 @@
         <pref name="window/height" value="821"/>
         <pref name="window/main_split" value="3"/>
         <pref name="window/main_split2" value="1043"/>
-        <pref name="window/prev_split" value="443"/>
-        <pref name="window/prop_split" value="257"/>
+        <pref name="window/prev_split" value="453"/>
+        <pref name="window/prop_split" value="267"/>
         <pref name="window/width" value="1536"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
