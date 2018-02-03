@@ -94,7 +94,8 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="15565"/>
+                <sel id="15368"/>
+                <sel id="15460"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="12290" parent_id="12254">
@@ -11967,7 +11968,7 @@
                 <child id="15577"/>
                 <child id="15575"/>
             </children>
-            <hierarchy hidden="0" locked="0" name="Ramps"/>
+            <hierarchy hidden="0" locked="1" name="Ramps"/>
         </object>
         <object class="WED_TextureNode" id="10958" parent_id="10955">
             <sources/>
@@ -16868,7 +16869,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217589666" longitude="105.797021488" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217597089" longitude="105.797000115" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -16887,7 +16888,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="-0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="-0.000000000" latitude="21.218629344" longitude="105.797363595" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="-0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="-0.000000000" latitude="21.218639111" longitude="105.797327134" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -16918,7 +16919,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 4"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218770898" longitude="105.797726400" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218780665" longitude="105.797689939" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17023,7 +17024,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217776758" longitude="105.796354691" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217783790" longitude="105.796301886" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17043,7 +17044,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218824145" longitude="105.796730019" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218845242" longitude="105.796639496" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17091,7 +17092,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217978583" longitude="105.795714922" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.217991866" longitude="105.795657087" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17110,7 +17111,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219042780" longitude="105.796079664" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219058407" longitude="105.796016800" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17159,7 +17160,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218185638" longitude="105.795002282" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218171573" longitude="105.794989709" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17178,7 +17179,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219257034" longitude="105.795358602" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219257034" longitude="105.795348544" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17232,7 +17233,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218431606" longitude="105.794144406" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218451140" longitude="105.794071065" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17254,7 +17255,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219494394" longitude="105.794505716" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219513928" longitude="105.794432375" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17343,7 +17344,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218636458" longitude="105.793495401" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218659899" longitude="105.793405296" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17362,7 +17363,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219643095" longitude="105.793854558" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219672396" longitude="105.793747689" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17427,7 +17428,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218811206" longitude="105.792857426" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218842460" longitude="105.792750557" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17446,7 +17447,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219812224" longitude="105.793197860" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219843478" longitude="105.793088896" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17495,7 +17496,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218992856" longitude="105.792169958" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219022157" longitude="105.792079853" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17514,7 +17515,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219996042" longitude="105.792519769" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220027296" longitude="105.792417091" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17579,7 +17580,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219176833" longitude="105.791488211" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219195586" longitude="105.791420318" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17598,7 +17599,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220206599" longitude="105.791845903" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220225352" longitude="105.791778010" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17643,7 +17644,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219382175" longitude="105.790778822" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219384988" longitude="105.790748647" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17663,7 +17664,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220418931" longitude="105.791145526" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220430183" longitude="105.791103281" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17711,7 +17712,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219633528" longitude="105.789923715" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219625089" longitude="105.789908628" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17730,7 +17731,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220649254" longitude="105.790270761" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220657693" longitude="105.790237569" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17779,7 +17780,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219835076" longitude="105.789238083" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219823824" longitude="105.789238083" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17798,7 +17799,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220824132" longitude="105.789608925" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220832571" longitude="105.789575733" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17890,7 +17891,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221016323" longitude="105.788942793" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221019136" longitude="105.788924688" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17936,7 +17937,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220180533" longitude="105.787960935" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220220382" longitude="105.787923216" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -17958,7 +17959,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221194156" longitude="105.788325752" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221215253" longitude="105.788247800" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18021,7 +18022,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218770898" longitude="105.797726400" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218780665" longitude="105.797689939" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18040,7 +18041,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000035409" ctrl_latitude_lo="-0.000035409" ctrl_longitude_hi="0.000093376" ctrl_longitude_lo="-0.000102872" latitude="21.218757432" longitude="105.797512411" split="1"/>
+            <point ctrl_latitude_hi="0.000035409" ctrl_latitude_lo="-0.000035409" ctrl_longitude_hi="0.000093376" ctrl_longitude_lo="-0.000102872" latitude="21.218767199" longitude="105.797475950" split="1"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18059,7 +18060,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218919849" longitude="105.797211133" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218929616" longitude="105.797174672" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18097,7 +18098,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218629344" longitude="105.797363595" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218639111" longitude="105.797327134" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18117,7 +18118,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000072573" ctrl_latitude_lo="-0.000072573" ctrl_longitude_hi="-0.000042131" ctrl_longitude_lo="0.000042131" latitude="21.218805270" longitude="105.797332334" split="0"/>
+            <point ctrl_latitude_hi="0.000072573" ctrl_latitude_lo="-0.000072573" ctrl_longitude_hi="-0.000042131" ctrl_longitude_lo="0.000042131" latitude="21.218815037" longitude="105.797295873" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18139,7 +18140,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218919849" longitude="105.797211133" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218929616" longitude="105.797174672" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18179,7 +18180,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218979712" longitude="105.797004048" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219000809" longitude="105.796913525" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18198,7 +18199,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218824145" longitude="105.796730019" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218845242" longitude="105.796639496" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18217,7 +18218,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219088634" longitude="105.796627254" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219109731" longitude="105.796536731" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18256,7 +18257,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.218979712" longitude="105.797004048" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219000809" longitude="105.796913525" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18275,7 +18276,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219088634" longitude="105.796627254" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219109731" longitude="105.796536731" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18294,7 +18295,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000071719" ctrl_latitude_lo="-0.000071719" ctrl_longitude_hi="-0.000026378" ctrl_longitude_lo="0.000026378" latitude="21.218981506" longitude="105.796721806" split="0"/>
+            <point ctrl_latitude_hi="0.000071719" ctrl_latitude_lo="-0.000071719" ctrl_longitude_hi="-0.000026378" ctrl_longitude_lo="0.000026378" latitude="21.219002603" longitude="105.796631283" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18313,7 +18314,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000047130" ctrl_latitude_lo="0.000047130" ctrl_longitude_hi="-0.000096718" ctrl_longitude_lo="0.000096718" latitude="21.218937135" longitude="105.796855355" split="0"/>
+            <point ctrl_latitude_hi="-0.000047130" ctrl_latitude_lo="0.000047130" ctrl_longitude_hi="-0.000096718" ctrl_longitude_lo="0.000096718" latitude="21.218958232" longitude="105.796764832" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18368,7 +18369,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219166655" longitude="105.796354057" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219182282" longitude="105.796291193" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18387,7 +18388,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219281989" longitude="105.795958382" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219297616" longitude="105.795895518" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18447,7 +18448,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219166655" longitude="105.796354057" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219182282" longitude="105.796291193" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18466,7 +18467,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000033638" ctrl_latitude_lo="0.000033638" ctrl_longitude_hi="-0.000078816" ctrl_longitude_lo="0.000078816" latitude="21.219153926" longitude="105.796201098" split="0"/>
+            <point ctrl_latitude_hi="-0.000033638" ctrl_latitude_lo="0.000033638" ctrl_longitude_hi="-0.000078816" ctrl_longitude_lo="0.000078816" latitude="21.219169553" longitude="105.796138234" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18485,7 +18486,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219042780" longitude="105.796076930" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219058407" longitude="105.796014066" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18505,7 +18506,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000063441" ctrl_latitude_lo="-0.000063441" ctrl_longitude_hi="-0.000030070" ctrl_longitude_lo="0.000030070" latitude="21.219185919" longitude="105.796052438" split="0"/>
+            <point ctrl_latitude_hi="0.000063441" ctrl_latitude_lo="-0.000063441" ctrl_longitude_hi="-0.000030070" ctrl_longitude_lo="0.000030070" latitude="21.219201546" longitude="105.795989574" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18527,7 +18528,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219281989" longitude="105.795958382" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219297616" longitude="105.795895518" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18586,7 +18587,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219257034" longitude="105.795358602" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219257034" longitude="105.795348544" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18647,7 +18648,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000067839" ctrl_latitude_lo="-0.000067839" ctrl_longitude_hi="-0.000041662" ctrl_longitude_lo="0.000041662" latitude="21.219402880" longitude="105.795325875" split="0"/>
+            <point ctrl_latitude_hi="0.000076474" ctrl_latitude_lo="-0.000076474" ctrl_longitude_hi="-0.000032399" ctrl_longitude_lo="0.000032399" latitude="21.219388749" longitude="105.795329291" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18666,7 +18667,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000022117" ctrl_latitude_lo="0.000022117" ctrl_longitude_hi="-0.000059345" ctrl_longitude_lo="0.000059345" latitude="21.219357156" longitude="105.795472341" split="0"/>
+            <point ctrl_latitude_hi="-0.000037033" ctrl_latitude_lo="0.000037033" ctrl_longitude_hi="-0.000082924" ctrl_longitude_lo="0.000082924" latitude="21.219350091" longitude="105.795458914" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18706,7 +18707,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219626433" longitude="105.794782480" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219645967" longitude="105.794709139" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18725,7 +18726,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219494394" longitude="105.794505716" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219513928" longitude="105.794432375" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18745,7 +18746,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219742798" longitude="105.794361928" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219762332" longitude="105.794288587" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18767,7 +18768,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219742798" longitude="105.794361928" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219762332" longitude="105.794288587" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18794,7 +18795,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000074793" ctrl_latitude_lo="-0.000074793" ctrl_longitude_hi="-0.000048359" ctrl_longitude_lo="0.000048359" latitude="21.219637260" longitude="105.794468874" split="0"/>
+            <point ctrl_latitude_hi="0.000074793" ctrl_latitude_lo="-0.000074793" ctrl_longitude_hi="-0.000048359" ctrl_longitude_lo="0.000048359" latitude="21.219656794" longitude="105.794395533" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18813,7 +18814,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000027663" ctrl_latitude_lo="0.000027663" ctrl_longitude_hi="-0.000064845" ctrl_longitude_lo="0.000064845" latitude="21.219592069" longitude="105.794623083" split="0"/>
+            <point ctrl_latitude_hi="-0.000027663" ctrl_latitude_lo="0.000027663" ctrl_longitude_hi="-0.000064845" ctrl_longitude_lo="0.000064845" latitude="21.219611603" longitude="105.794549742" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18854,7 +18855,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219793743" longitude="105.794187256" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219823044" longitude="105.794080387" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18876,7 +18877,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219643095" longitude="105.793854558" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219672396" longitude="105.793747689" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18895,7 +18896,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219932435" longitude="105.793711733" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219961736" longitude="105.793604864" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18914,7 +18915,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219793743" longitude="105.794187256" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219823044" longitude="105.794080387" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18933,7 +18934,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219932435" longitude="105.793711733" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219961736" longitude="105.793604864" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18952,7 +18953,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000031868" ctrl_latitude_lo="0.000031868" ctrl_longitude_hi="-0.000079766" ctrl_longitude_lo="0.000079766" latitude="21.219767458" longitude="105.794003464" split="0"/>
+            <point ctrl_latitude_hi="-0.000031868" ctrl_latitude_lo="0.000031868" ctrl_longitude_hi="-0.000079766" ctrl_longitude_lo="0.000079766" latitude="21.219796759" longitude="105.793896595" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -18972,7 +18973,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000084981" ctrl_latitude_lo="-0.000084981" ctrl_longitude_hi="-0.000050139" ctrl_longitude_lo="0.000050139" latitude="21.219811206" longitude="105.793826594" split="0"/>
+            <point ctrl_latitude_hi="0.000084981" ctrl_latitude_lo="-0.000084981" ctrl_longitude_hi="-0.000050139" ctrl_longitude_lo="0.000050139" latitude="21.219840507" longitude="105.793719725" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19015,7 +19016,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219983071" longitude="105.793538119" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220014325" longitude="105.793429155" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19034,7 +19035,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219812224" longitude="105.793197860" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219843478" longitude="105.793088896" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19053,7 +19054,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220120601" longitude="105.793066579" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220151855" longitude="105.792957615" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19072,7 +19073,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219983071" longitude="105.793538119" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220014325" longitude="105.793429155" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19092,7 +19093,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220120601" longitude="105.793066579" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220151855" longitude="105.792957615" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19114,7 +19115,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000086063" ctrl_latitude_lo="-0.000086063" ctrl_longitude_hi="-0.000035610" ctrl_longitude_lo="0.000035610" latitude="21.219997071" longitude="105.793178338" split="0"/>
+            <point ctrl_latitude_hi="0.000086063" ctrl_latitude_lo="-0.000086063" ctrl_longitude_hi="-0.000035610" ctrl_longitude_lo="0.000035610" latitude="21.220028325" longitude="105.793069374" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19133,7 +19134,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000039343" ctrl_latitude_lo="0.000039343" ctrl_longitude_hi="-0.000084409" ctrl_longitude_lo="0.000084409" latitude="21.219948126" longitude="105.793343443" split="0"/>
+            <point ctrl_latitude_hi="-0.000039343" ctrl_latitude_lo="0.000039343" ctrl_longitude_hi="-0.000084409" ctrl_longitude_lo="0.000084409" latitude="21.219979380" longitude="105.793234479" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19173,7 +19174,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220177561" longitude="105.792871286" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220208815" longitude="105.792768608" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19192,7 +19193,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219996042" longitude="105.792519769" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220027296" longitude="105.792417091" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19212,7 +19213,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220322476" longitude="105.792374425" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220353730" longitude="105.792271747" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19234,7 +19235,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220177561" longitude="105.792871286" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220208815" longitude="105.792768608" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19253,7 +19254,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220322476" longitude="105.792374425" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220353730" longitude="105.792271747" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19272,7 +19273,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000094423" ctrl_latitude_lo="-0.000094423" ctrl_longitude_hi="-0.000053811" ctrl_longitude_lo="0.000053811" latitude="21.220197622" longitude="105.792490903" split="0"/>
+            <point ctrl_latitude_hi="0.000094423" ctrl_latitude_lo="-0.000094423" ctrl_longitude_hi="-0.000053811" ctrl_longitude_lo="0.000053811" latitude="21.220228876" longitude="105.792388225" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19291,7 +19292,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000045736" ctrl_latitude_lo="0.000045736" ctrl_longitude_hi="-0.000106039" ctrl_longitude_lo="0.000106039" latitude="21.220146026" longitude="105.792666213" split="0"/>
+            <point ctrl_latitude_hi="-0.000045736" ctrl_latitude_lo="0.000045736" ctrl_longitude_hi="-0.000106039" ctrl_longitude_lo="0.000106039" latitude="21.220177280" longitude="105.792563535" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19332,7 +19333,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220380093" longitude="105.792176877" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220398846" longitude="105.792108984" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19354,7 +19355,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220206599" longitude="105.791845903" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220225352" longitude="105.791778010" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19373,7 +19374,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220518544" longitude="105.791702181" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220537297" longitude="105.791634288" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19392,7 +19393,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220518544" longitude="105.791702181" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220537297" longitude="105.791634288" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19411,7 +19412,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220380093" longitude="105.792176877" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220398846" longitude="105.792108984" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19430,7 +19431,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000108603" ctrl_latitude_lo="-0.000108603" ctrl_longitude_hi="-0.000045062" ctrl_longitude_lo="0.000045062" latitude="21.220385689" longitude="105.791821502" split="0"/>
+            <point ctrl_latitude_hi="0.000108603" ctrl_latitude_lo="-0.000108603" ctrl_longitude_hi="-0.000045062" ctrl_longitude_lo="0.000045062" latitude="21.220404442" longitude="105.791753609" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19450,7 +19451,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000039958" ctrl_latitude_lo="0.000039958" ctrl_longitude_hi="-0.000091223" ctrl_longitude_lo="0.000091223" latitude="21.220341417" longitude="105.791976644" split="0"/>
+            <point ctrl_latitude_hi="-0.000039958" ctrl_latitude_lo="0.000039958" ctrl_longitude_hi="-0.000091223" ctrl_longitude_lo="0.000091223" latitude="21.220360170" longitude="105.791908751" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19501,7 +19502,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220580631" longitude="105.791489101" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220591883" longitude="105.791446856" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19520,7 +19521,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220418931" longitude="105.791145526" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220430183" longitude="105.791103281" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19539,7 +19540,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220720899" longitude="105.791007379" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220732151" longitude="105.790965134" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19559,7 +19560,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220580631" longitude="105.791489101" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220591883" longitude="105.791446856" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19581,7 +19582,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220720899" longitude="105.791007379" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220732151" longitude="105.790965134" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19600,7 +19601,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000087292" ctrl_latitude_lo="-0.000087292" ctrl_longitude_hi="-0.000040886" ctrl_longitude_lo="0.000040886" latitude="21.220596766" longitude="105.791121773" split="0"/>
+            <point ctrl_latitude_hi="0.000087292" ctrl_latitude_lo="-0.000087292" ctrl_longitude_hi="-0.000040886" ctrl_longitude_lo="0.000040886" latitude="21.220608018" longitude="105.791079528" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19619,7 +19620,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000044261" ctrl_latitude_lo="0.000044261" ctrl_longitude_hi="-0.000094960" ctrl_longitude_lo="0.000094960" latitude="21.220550904" longitude="105.791288446" split="0"/>
+            <point ctrl_latitude_hi="-0.000044261" ctrl_latitude_lo="0.000044261" ctrl_longitude_hi="-0.000094960" ctrl_longitude_lo="0.000094960" latitude="21.220562156" longitude="105.791246201" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19659,7 +19660,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220825212" longitude="105.790649140" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220833651" longitude="105.790615948" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19679,7 +19680,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220649254" longitude="105.790270761" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220657693" longitude="105.790237569" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19701,7 +19702,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220976465" longitude="105.790129695" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220984904" longitude="105.790096503" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19720,7 +19721,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220976465" longitude="105.790129695" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220984904" longitude="105.790096503" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19739,7 +19740,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000033933" ctrl_latitude_lo="0.000033933" ctrl_longitude_hi="-0.000091795" ctrl_longitude_lo="0.000091795" latitude="21.220780448" longitude="105.790424450" split="0"/>
+            <point ctrl_latitude_hi="-0.000033933" ctrl_latitude_lo="0.000033933" ctrl_longitude_hi="-0.000091795" ctrl_longitude_lo="0.000091795" latitude="21.220788887" longitude="105.790391258" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19758,7 +19759,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000081145" ctrl_latitude_lo="-0.000081145" ctrl_longitude_hi="-0.000041149" ctrl_longitude_lo="0.000041149" latitude="21.220843807" longitude="105.790244248" split="0"/>
+            <point ctrl_latitude_hi="0.000081145" ctrl_latitude_lo="-0.000081145" ctrl_longitude_hi="-0.000041149" ctrl_longitude_lo="0.000041149" latitude="21.220852246" longitude="105.790211056" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19799,7 +19800,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221017757" longitude="105.789987886" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221026196" longitude="105.789954694" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19821,7 +19822,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220824132" longitude="105.789608925" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220832571" longitude="105.789575733" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19840,7 +19841,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221177702" longitude="105.789440172" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221186141" longitude="105.789406980" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19859,7 +19860,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221017757" longitude="105.789987886" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221026196" longitude="105.789954694" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19878,7 +19879,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221177702" longitude="105.789440172" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221186141" longitude="105.789406980" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19897,7 +19898,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000094423" ctrl_latitude_lo="-0.000094423" ctrl_longitude_hi="-0.000039567" ctrl_longitude_lo="0.000039567" latitude="21.221037385" longitude="105.789595789" split="0"/>
+            <point ctrl_latitude_hi="0.000094423" ctrl_latitude_lo="-0.000094423" ctrl_longitude_hi="-0.000039567" ctrl_longitude_lo="0.000039567" latitude="21.221045824" longitude="105.789562597" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19917,7 +19918,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000039835" ctrl_latitude_lo="0.000039835" ctrl_longitude_hi="-0.000109205" ctrl_longitude_lo="0.000109205" latitude="21.220990246" longitude="105.789776641" split="0"/>
+            <point ctrl_latitude_hi="-0.000039835" ctrl_latitude_lo="0.000039835" ctrl_longitude_hi="-0.000109205" ctrl_longitude_lo="0.000109205" latitude="21.220998685" longitude="105.789743449" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19960,7 +19961,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221203372" longitude="105.789351932" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221206185" longitude="105.789333827" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19979,7 +19980,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221016323" longitude="105.788942793" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221019136" longitude="105.788924688" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -19998,7 +19999,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221364067" longitude="105.788791975" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221366880" longitude="105.788773870" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20017,7 +20018,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221203372" longitude="105.789351932" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221206185" longitude="105.789333827" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20037,7 +20038,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221367320" longitude="105.788788370" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221366880" longitude="105.788773870" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20059,7 +20060,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000092210" ctrl_latitude_lo="-0.000092210" ctrl_longitude_hi="-0.000032973" ctrl_longitude_lo="0.000032973" latitude="21.221232775" longitude="105.788925709" split="0"/>
+            <point ctrl_latitude_hi="0.000092210" ctrl_latitude_lo="-0.000092210" ctrl_longitude_hi="-0.000032973" ctrl_longitude_lo="0.000032973" latitude="21.221235588" longitude="105.788907604" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20078,7 +20079,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000047130" ctrl_latitude_lo="0.000047130" ctrl_longitude_hi="-0.000105512" ctrl_longitude_lo="0.000105512" latitude="21.221182937" longitude="105.789107809" split="0"/>
+            <point ctrl_latitude_hi="-0.000047130" ctrl_latitude_lo="0.000047130" ctrl_longitude_hi="-0.000105512" ctrl_longitude_lo="0.000105512" latitude="21.221185750" longitude="105.789089704" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20118,7 +20119,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221388984" longitude="105.788713903" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221414419" longitude="105.788629016" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20137,7 +20138,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221194156" longitude="105.788325752" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221215253" longitude="105.788247800" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20157,7 +20158,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221538240" longitude="105.788200843" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221564025" longitude="105.788105289" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20179,7 +20180,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221388984" longitude="105.788713903" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221414419" longitude="105.788629016" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20198,7 +20199,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221538240" longitude="105.788200843" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.221564025" longitude="105.788105289" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20217,7 +20218,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000072573" ctrl_latitude_lo="-0.000074280" ctrl_longitude_hi="-0.000036636" ctrl_longitude_lo="0.000043963" latitude="21.221433761" longitude="105.788327342" split="1"/>
+            <point ctrl_latitude_hi="0.000105390" ctrl_latitude_lo="-0.000076164" ctrl_longitude_hi="-0.000029092" ctrl_longitude_lo="0.000031836" latitude="21.221417768" longitude="105.788238862" split="1"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20236,7 +20237,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="-0.000040476" ctrl_latitude_lo="0.000040476" ctrl_longitude_hi="-0.000115133" ctrl_longitude_lo="0.000115133" latitude="21.221385844" longitude="105.788496593" split="0"/>
+            <point ctrl_latitude_hi="-0.000044244" ctrl_latitude_lo="0.000044244" ctrl_longitude_hi="-0.000103006" ctrl_longitude_lo="0.000103006" latitude="21.221385778" longitude="105.788398947" split="0"/>
             <markings>
                 <marking value="Solid Yellow"/>
                 <marking value="Taxiway Centerline Lights (Green)"/>
@@ -20292,7 +20293,7 @@
                 <child id="15360"/>
                 <child id="15347"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="Intl-Terminal"/>
+            <hierarchy hidden="0" locked="0" name="Intl-Terminal"/>
         </object>
         <object class="WED_Ring" id="11453" parent_id="11452">
             <sources/>
@@ -20830,6 +20831,17 @@
             <hierarchy hidden="0" locked="0" name="13221011201133333"/>
             <overlay_image alpha="1.0" file_path="..\..\..\..\..\..\Users\mbuse\wedbing\tempfilestore\13221011201133333.jpg"/>
         </object>
+        <object class="WED_AirportNode" id="15578" parent_id="13188">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 7"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.220833651" longitude="105.790615948" split="0"/>
+            <markings>
+                <marking value="Solid Yellow"/>
+                <marking value="Taxiway Centerline Lights (Green)"/>
+            </markings>
+        </object>
         <object class="WED_Ring" id="11483" parent_id="11482">
             <sources/>
             <viewers/>
@@ -20848,6 +20860,17 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="21.207458000" longitude="105.817565000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_AirportNode" id="15580" parent_id="13188">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 7"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="21.219645967" longitude="105.794709139" split="0"/>
+            <markings>
+                <marking value="Solid Yellow"/>
+                <marking value="Taxiway Centerline Lights (Green)"/>
+            </markings>
         </object>
         <object class="WED_TextureNode" id="11485" parent_id="11483">
             <sources/>
@@ -33219,6 +33242,7 @@
                 <child id="15528"/>
                 <child id="15527"/>
                 <child id="15520"/>
+                <child id="15578"/>
                 <child id="15087"/>
                 <child id="15513"/>
                 <child id="15512"/>
@@ -33232,6 +33256,7 @@
                 <child id="15480"/>
                 <child id="15479"/>
                 <child id="15471"/>
+                <child id="15580"/>
                 <child id="15075"/>
                 <child id="15464"/>
                 <child id="15078"/>
@@ -33414,21 +33439,23 @@
             <item value="13154"/>
             <item value="14898"/>
             <item value="15034"/>
+            <item value="15053"/>
             <item value="15121"/>
+            <item value="15548"/>
             <item value="15576"/>
             <item value="15577"/>
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="105.796874"/>
-        <pref name="map/north" value="21.221358"/>
+        <pref name="map/east" value="105.797377"/>
+        <pref name="map/north" value="21.221220"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="21.214076"/>
+        <pref name="map/south" value="21.216700"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="105.787450"/>
+        <pref name="map/west" value="105.791526"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -33503,8 +33530,8 @@
         <pref name="window/height" value="821"/>
         <pref name="window/main_split" value="3"/>
         <pref name="window/main_split2" value="1043"/>
-        <pref name="window/prev_split" value="463"/>
-        <pref name="window/prop_split" value="278"/>
+        <pref name="window/prev_split" value="473"/>
+        <pref name="window/prop_split" value="288"/>
         <pref name="window/width" value="1536"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
